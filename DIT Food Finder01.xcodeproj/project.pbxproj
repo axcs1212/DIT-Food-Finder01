@@ -12,6 +12,8 @@
 		FDD4284420AD163300990697 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD4284220AD163300990697 /* Main.storyboard */; };
 		FDD4284620AD163300990697 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDD4284520AD163300990697 /* Assets.xcassets */; };
 		FDD4284920AD163300990697 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD4284720AD163300990697 /* LaunchScreen.storyboard */; };
+		FDD4285120AD1FC100990697 /* FoodFinderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4285020AD1FC100990697 /* FoodFinderTableViewController.swift */; };
+		FDD4285320AD200C00990697 /* FoodFinderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4285220AD200C00990697 /* FoodFinderTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FDD4284520AD163300990697 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDD4284820AD163300990697 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDD4284A20AD163300990697 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDD4285020AD1FC100990697 /* FoodFinderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFinderTableViewController.swift; sourceTree = "<group>"; };
+		FDD4285220AD200C00990697 /* FoodFinderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFinderTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				FDD4283E20AD163300990697 /* AppDelegate.swift */,
 				FDD4284020AD163300990697 /* ViewController.swift */,
 				FDD4284220AD163300990697 /* Main.storyboard */,
+				FDD4285220AD200C00990697 /* FoodFinderTableViewCell.swift */,
+				FDD4285020AD1FC100990697 /* FoodFinderTableViewController.swift */,
 				FDD4284520AD163300990697 /* Assets.xcassets */,
 				FDD4284720AD163300990697 /* LaunchScreen.storyboard */,
 				FDD4284A20AD163300990697 /* Info.plist */,
@@ -138,6 +144,8 @@
 			files = (
 				FDD4284120AD163300990697 /* ViewController.swift in Sources */,
 				FDD4283F20AD163300990697 /* AppDelegate.swift in Sources */,
+				FDD4285120AD1FC100990697 /* FoodFinderTableViewController.swift in Sources */,
+				FDD4285320AD200C00990697 /* FoodFinderTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
